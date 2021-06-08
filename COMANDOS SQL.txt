@@ -1,0 +1,90 @@
+--- criando banco ---
+create database PA
+
+--- usando banco ---
+use PA
+
+--- criando tabelas ---
+create table usuario(
+	id_user tinyint primary key identity(1,1),
+	nome varchar(100) not null,
+	cpf varchar(15) not null,
+	pass varchar(100) not null,
+	email varchar(255) not null,
+)
+
+create table fazenda(
+	id_farm tinyint primary key identity(1,1),
+	nome varchar(100) not null,
+	rua varchar(255) not null,
+	bairro varchar(255) not null,
+	numero int not null,
+	cidade varchar(255) not null,
+	estado varchar(3) not null,
+	cep int not null,
+	id_user tinyint not null,
+)
+
+--- chave estrangeira ---
+alter table usuario add constraint fk_userfarm foreign key (id_farm) references fazenda(id_farm)
+
+alter table fazenda add constraint fk_farmuser foreign key (id_user) references usuario(id_user)
+
+--- Criando Tabela Praga ---
+
+create table praga (
+	id_prag tinyint primary key identity(1,1),
+	nome varchar(100) not null,
+	nomesci varchar(100) not null,
+	ataque varchar(255) not null,
+	combate varchar(255) not null,
+	descricao varchar(MAX) not null,
+	foto varchar(MAX) not null,
+)
+
+--- insert ---
+
+insert into praga(nome,nomesci,ataque,combate,descricao,foto) values
+--- Algodão ---
+('Bicudo-do-Algodoeiro','Anthonomus grandis','Algodão','Utilização de tubo mata bicudo, e inseticidas ','O bicudo-do-algodoeiro apresenta coloração castanha quando jovem e cinza quando se torna mais velho. As mandíbulas afiadas são responsáveis pela perfuração do botão floral. O nome se dá pelo alongamento da cabeça, o que forma uma espécie de bico. Essa é uma característica marcante da praga. O par de antenas apresenta forma de V.','E:/PA_TESTE/PA_TESTE/Images/Bicudo-adulto.jpg'),
+('Mosca branca','Aleyrodidae','Algodão, Feijão','inseticidas sistêmicos ou tratamento de sementes','O ovo, de coloração amarela, apresenta formato de pera e mede cerca de 0,2 a 0,3 mm. Apresenta um pedicelo que o prende ao tecido da planta. As ninfas são translúcidas e apresentam coloração amarela a amarelo-pálida. O adulto possui quatro asas membranosas, cobertas de partículas cerosas, assim como o resto do corpo. A cabeça é mais ou menos arredondada, com longas antenas. Nessa fase, possui 3 pares de longas e finas patas; as asas anteriores são um pouco maiores que as posteriores. Os adultos da mosca-branca são de coloração amarelo-pálida. Medem de 1 a 2 mm, sendo a fêmea maior que o macho. Quando em repouso, as asas são mantidas levemente separadas, com os lados paralelos, deixando o abdome visível.','E:/PA_TESTE/PA_TESTE/Images/mosca-branca.jpg'),
+('Pulgão do algodoeiro ','Aphis gossypii','Algodão','pulverizações de inseticidas sistêmicos ','O pulgão Aphis gossypii, também chamado pulgão do algodoeiro, é um inseto com cerca de 1,3 mm de comprimento e cores variando do amarelo-claro ao verde-escuro, esta predominante nos adultos. Têm enorme capacidade de reprodução, que ocorre sem necessidade do macho (partenogênese), e apresentam formas com e sem asas.Quando a população cresce muito e começa a faltar comida, surgem os pulgões com asas que criam novas colônias ao voarem para outras plantas em busca de alimento.','E:/PA_TESTE/PA_TESTE/Images/pulgao do algodoeiro.jpg'),
+('Percevejo castanho da raiz','Scaptocoris castanea','Algodão','arações profundas seguidas de gradagens e correção de acidez no solo','Branco quando jovem e marrom-claro quando adulto, o percevejo castanho é um inseto subterrâneo que suga a seiva da raiz do algodoeiro. É uma espécie polífaga, ou seja, pode atacar diversas culturas como sorgo, milho, soja e pastagens. Na hora de abrir os sulcos o percevejo castanho é prontamente identificado pelo cheiro desagradável exalado.','E:/PA_TESTE/PA_TESTE/Images/percevejo-castanha.jpg'),
+
+--- feijao ---
+('Lagarta-rosca','Agrotis ipsilon','Feijão, Milho','Em áreas com histórico de incidência da praga é recomendado o tratamento de sementes com inseticidas sistêmicos','O inseto, quando adulto, é uma mariposa com cerca de 20mm de comprimento e de 30 a 35mm de envergadura. As asas anteriores são escuras, cinza ou marrom mosqueado, e as posteriores claras e semitransparentes. As lagartas têm coloração variável entre o marrom e o cinza e podem chegar a 50mm de comprimento. Vivem enroladas sob a terra, próximas das raízes e à pequena profundidade, e saem durante a noite para cortar as plântulas rente ao solo.','E:/PA_TESTE/PA_TESTE/Images/lagarta-rosca.jpg'),
+('Lagarta-elasmo','Elasmopalpus lignosellus','Feijão, soja','uso de inseticidas em tratamento de sementes é a principal estratégia de controle','A lagarta elasmo, também conhecida por broca-do-colo, é uma praga polífaga capaz de atacar mais de 60 espécies de plantas, dentre elas culturas como a soja, algodão, feijão, milho, cereais de inverno, entre outras. Seus danos ocorrem nos primeiros estádios de desenvolvimento, até por volta de 30 dias após a emergência. Muitas vezes, a ocorrência dessa praga é negligenciada por parte dos produtores, mas é importante ressaltar que as condições de clima oferecem significativa influência sobre seu desenvolvimento, e a não ocorrência em uma safra, não significa que não não possa ocorrer nas futuras.','E:/PA_TESTE/PA_TESTE/Images/lagarta-polÃ­fagas.jpg'),
+('Vaquinha','Diabrotica speciosa, Cerotoma arcuata','Feijão','Excesso e baixa umidade do solo são desfavoráveis à larva','A Vaquinha (Diabrotica speciosa) é um besouro pequeno e muito marcante, de coloração verde e amarela. Também é conhecida por brasileirinho, cascudinho ou patriota, e suas larvas são conhecidas como Larva-alfinete. É uma praga polífaga e subterrânea.','E:/PA_TESTE/PA_TESTE/Images/1503603186.jpg'),
+('Lagarta-falsa-medideira','Chrysodeixis includens','Feijão','Controle biológico ou cultural','Esta espécie é conhecida como falsa medideira por possuir apenas três pares de falsas pernas, fazendo com que a locomoção seja como se estivesse medindo palmo. O ataque também ocorre em outras culturas, como feijão, gergelim, tomate e trigo','E:/PA_TESTE/PA_TESTE/Images/Lagarta Falsa.png'),
+('Ácaro-rajado','Tetranhychus urticae','Feijão','Aplicações de produtos defensivos deve ser realizadas nas horas mais frescas do dia. Usar produtos registrados para as culturas.','O ácaro-rajado é uma das principais pragas do morangueiro nos principais centros de produção do Brasil. Os adultos medem aproximadamente 1 mm de comprimento e 0,6 mm de largura. ... O ciclo biológico vária de 5 a 21 dias, dependendo da temperatura.','E:/PA_TESTE/PA_TESTE/Images/acaro-rajado.jpg'),
+
+--- Milho ---
+('Corós','Coleoptera, Melolonthidae','Milho','inseticidas','Os corós (Coleoptera, Melolonthidae) são larvas de solo que apresentam o corpo em forma de C , de cor esbranquiçada, e a cabeça e os três pares de pernas mais escuros. São espécies nativas, cuja importância econômica cresceu a partir dos anos 80','E:/PA_TESTE/PA_TESTE/Images/Coros.jpg'),
+('Larva-arame','Conoderus scalaris','Milho','inseticidas fosforados sistêmicos','Os vermes-arame são as larvas de diversos escaravelhos da família Elateridae, maioritariamente de vida subterrânea, fitófagas que se alimentam das raízes e de outras partes das plantas. Alimentam-se subterraneamente nas raízes das plantas jovens e das plântulas.','E:/PA_TESTE/PA_TESTE/Images/Larva-Arame.jpg'),
+('Larva alfinete','Diabrotica speciosa','Milho','eliminação de restos culturais;uso de inseticidas granulados ou em pulverização no sulco de plantio; controle biológico com  os fungos Beauveria bassiana, Metarhizium anisopliae e Paecilomyces lilacinus.','As larvas apresentam coloração esbranquiçada e cabeça de coloração marrom escura, conhecidamente chamadas por larva alfinete (Figura 2). Quando completamente desenvolvidas apresentam comprimento que varia entre 10-12 mm.','E:/PA_TESTE/PA_TESTE/Images/Larva-alfinete.jpg'),
+('Lagarta-da-espiga do milho','Helicoverpa zea','Milho','controle biológico, com o uso de parasitoides e predadores, como a tesourinha','A lagarta da espiga do milho, Helicoverpa zea, é uma das pragas de maior importância econômica para a agricultura mundial. No Brasil, constatou-se que as infestações de H. zea são de até 96,3%, causando danos de até 8,4%, com 2,1% em conseqüência de grãos comidos, 2,0% de grãos podres e 4,3% de falhas.','E:/PA_TESTE/PA_TESTE/Images/590fe-Milho_SemAutor_01--1-.jpg'),
+('Broca-da-cana','Diatraea saccharalis','Milho','liberação do parasitoide de ovos Trichogramma spp','A broca-da-cana é uma mariposa da espécie Diatraea saccharalis, que está presente em todo o Brasil e causa grandes prejuízos na cultura da cana-de-açúcar, afetando a produtividade do canavial e também a qualidade da produção de açúcar e etanol.','E:/PA_TESTE/PA_TESTE/Images/Broca-da-cana-de-acucar-min.png'),
+
+--- Soja ---
+('Percevejo-marrom','Euschistus heros','Soja','Utilização de inseticidas','Percevejo-marrom-da-soja ou Euschistus heros é um inseto que ataca plantas. É conhecido por ser uma das mais agressivas pragas da cultura da soja. ... O percevejo-marrom pode se alimentar de várias plantas, incluindo espécies de leguminosas, solanáceas, brassicáceas e compostas','E:/PA_TESTE/PA_TESTE/Images/Percevejo Marrom da Soja - Euschistus Heros.png'),
+('Lagarta Helicoverpa','Helicoverpa armigera','Soja','controle antecipado de plantas daninhas hospedeiras, utilização de cultivares Bt e aplicação de inseticidas quando o nível de ação for atingido no monitoramento','A Helicoverpa armigera é uma espécie de lagarta que ataca principalmente as estruturas reprodutivas das plantas. É uma praga extremamente agressiva, que costuma estar posicionada nas flores e vagens da soja e se multiplica muito rapidamente.','E:/PA_TESTE/PA_TESTE/Images/f82951a36046fe2715142c2b2e9712ac.png'),
+('Lagarta-da-soja','Anticarsia gemmatalis','Soja','Inseticidas no pré-planti','Apresenta coloração verde, com estrias brancas na parte superior, sendo que, quando em grande população, ou em situações de escassez de alimento, a coloração se torna mais escura. ... Estas lagartas se alimentam das áreas centrais das folhas, mas deixam as nervuras intactas','E:/PA_TESTE/PA_TESTE/Images/lagartasoja.jpg'),
+('Lagarta-do-cartucho','Spodoptera frugiperda','Soja','deve ser realizada a aplicação de inseticidas','As lagartas são inicialmente claras, passando para pardo escuro a esverdeadas até quase pretas, apresentam um “Y” invertido na parte frontal da cabeça, possuem três pares de pernas no tórax e cinco pares de falsas pernas no abdome, podendo atingir 50 mm de comprimento.','E:/PA_TESTE/PA_TESTE/Images/lagarta-do-cartucho.jpg')
+
+
+
+--- drops ---
+drop table	usuario
+
+drop table	fazenda
+
+drop table praga
+
+drop database PA
+
+--- Select ---
+select * from usuario
+
+select * from fazenda
+
+select * from praga

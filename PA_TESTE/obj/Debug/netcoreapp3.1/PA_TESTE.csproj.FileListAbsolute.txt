@@ -1,0 +1,133 @@
+C:\Users\renan\Desktop\UNIARARAS\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\PA_TESTE.exe
+C:\Users\renan\Desktop\UNIARARAS\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\PA_TESTE.deps.json
+C:\Users\renan\Desktop\UNIARARAS\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\PA_TESTE.runtimeconfig.json
+C:\Users\renan\Desktop\UNIARARAS\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\PA_TESTE.runtimeconfig.dev.json
+C:\Users\renan\Desktop\UNIARARAS\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\PA_TESTE.dll
+C:\Users\renan\Desktop\UNIARARAS\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\PA_TESTE.pdb
+C:\Users\renan\Desktop\UNIARARAS\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\MetroFramework.Design.dll
+C:\Users\renan\Desktop\UNIARARAS\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\MetroFramework.Fonts.dll
+C:\Users\renan\Desktop\UNIARARAS\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\MetroFramework.dll
+C:\Users\renan\Desktop\UNIARARAS\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.csprojAssemblyReference.cache
+C:\Users\renan\Desktop\UNIARARAS\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.Form1.resources
+C:\Users\renan\Desktop\UNIARARAS\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.csproj.GenerateResource.cache
+C:\Users\renan\Desktop\UNIARARAS\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.AssemblyInfoInputs.cache
+C:\Users\renan\Desktop\UNIARARAS\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.AssemblyInfo.cs
+C:\Users\renan\Desktop\UNIARARAS\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\UNIARARAS\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.csproj.CopyComplete
+C:\Users\renan\Desktop\UNIARARAS\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.dll
+C:\Users\renan\Desktop\UNIARARAS\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.pdb
+C:\Users\renan\Desktop\UNIARARAS\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.genruntimeconfig.cache
+C:\Users\renan\Desktop\UNIARARAS\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.Properties.Resources.resources
+D:\BACKUP\renan\Desktop\UNIARARAS\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\PA_TESTE.exe
+D:\BACKUP\renan\Desktop\UNIARARAS\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\PA_TESTE.deps.json
+D:\BACKUP\renan\Desktop\UNIARARAS\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\PA_TESTE.runtimeconfig.json
+D:\BACKUP\renan\Desktop\UNIARARAS\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\PA_TESTE.runtimeconfig.dev.json
+D:\BACKUP\renan\Desktop\UNIARARAS\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\PA_TESTE.dll
+D:\BACKUP\renan\Desktop\UNIARARAS\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\PA_TESTE.pdb
+D:\BACKUP\renan\Desktop\UNIARARAS\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\MetroFramework.Design.dll
+D:\BACKUP\renan\Desktop\UNIARARAS\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\MetroFramework.Fonts.dll
+D:\BACKUP\renan\Desktop\UNIARARAS\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\MetroFramework.dll
+D:\BACKUP\renan\Desktop\UNIARARAS\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.csprojAssemblyReference.cache
+D:\BACKUP\renan\Desktop\UNIARARAS\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.Form1.resources
+D:\BACKUP\renan\Desktop\UNIARARAS\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.Properties.Resources.resources
+D:\BACKUP\renan\Desktop\UNIARARAS\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.csproj.GenerateResource.cache
+D:\BACKUP\renan\Desktop\UNIARARAS\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.AssemblyInfoInputs.cache
+D:\BACKUP\renan\Desktop\UNIARARAS\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.AssemblyInfo.cs
+D:\BACKUP\renan\Desktop\UNIARARAS\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.csproj.CoreCompileInputs.cache
+D:\BACKUP\renan\Desktop\UNIARARAS\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.csproj.CopyComplete
+D:\BACKUP\renan\Desktop\UNIARARAS\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.dll
+D:\BACKUP\renan\Desktop\UNIARARAS\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.pdb
+D:\BACKUP\renan\Desktop\UNIARARAS\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.genruntimeconfig.cache
+D:\PESSOAL_RENAN\FHO_2019_2022\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.Form1.resources
+D:\PESSOAL_RENAN\FHO_2019_2022\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.Properties.Resources.resources
+D:\PESSOAL_RENAN\FHO_2019_2022\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.csproj.GenerateResource.cache
+D:\PESSOAL_RENAN\FHO_2019_2022\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.AssemblyInfoInputs.cache
+D:\PESSOAL_RENAN\FHO_2019_2022\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.AssemblyInfo.cs
+D:\PESSOAL_RENAN\FHO_2019_2022\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.csproj.CoreCompileInputs.cache
+D:\PESSOAL_RENAN\FHO_2019_2022\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.dll
+D:\PESSOAL_RENAN\FHO_2019_2022\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.pdb
+D:\PESSOAL_RENAN\FHO_2019_2022\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\PA_TESTE.exe
+D:\PESSOAL_RENAN\FHO_2019_2022\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\PA_TESTE.deps.json
+D:\PESSOAL_RENAN\FHO_2019_2022\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\PA_TESTE.runtimeconfig.json
+D:\PESSOAL_RENAN\FHO_2019_2022\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\PA_TESTE.runtimeconfig.dev.json
+D:\PESSOAL_RENAN\FHO_2019_2022\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\PA_TESTE.dll
+D:\PESSOAL_RENAN\FHO_2019_2022\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\PA_TESTE.pdb
+D:\PESSOAL_RENAN\FHO_2019_2022\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\MetroFramework.Design.dll
+D:\PESSOAL_RENAN\FHO_2019_2022\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\MetroFramework.Fonts.dll
+D:\PESSOAL_RENAN\FHO_2019_2022\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\MetroFramework.dll
+D:\PESSOAL_RENAN\FHO_2019_2022\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\PESSOAL_RENAN\FHO_2019_2022\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\PESSOAL_RENAN\FHO_2019_2022\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\PESSOAL_RENAN\FHO_2019_2022\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\PESSOAL_RENAN\FHO_2019_2022\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\PESSOAL_RENAN\FHO_2019_2022\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\PESSOAL_RENAN\FHO_2019_2022\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.csproj.CopyComplete
+D:\PESSOAL_RENAN\FHO_2019_2022\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.genruntimeconfig.cache
+D:\PESSOAL_RENAN\FHO_2019_2022\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.MenuOpções.resources
+D:\PESSOAL_RENAN\FHO_2019_2022\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.Login.resources
+D:\PESSOAL_RENAN\FHO_2019_2022\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.csprojAssemblyReference.cache
+E:\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\PA_TESTE.exe
+E:\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\PA_TESTE.deps.json
+E:\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\PA_TESTE.runtimeconfig.json
+E:\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\PA_TESTE.runtimeconfig.dev.json
+E:\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\PA_TESTE.dll
+E:\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\PA_TESTE.pdb
+E:\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\MetroFramework.Design.dll
+E:\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\MetroFramework.Fonts.dll
+E:\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\MetroFramework.dll
+E:\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.csproj.AssemblyReference.cache
+E:\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.Form1.resources
+E:\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.Login.resources
+E:\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.MenuOpções.resources
+E:\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.Properties.Resources.resources
+E:\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.csproj.GenerateResource.cache
+E:\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.AssemblyInfoInputs.cache
+E:\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.AssemblyInfo.cs
+E:\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.csproj.CoreCompileInputs.cache
+E:\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.csproj.CopyComplete
+E:\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.dll
+E:\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.pdb
+E:\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.genruntimeconfig.cache
+E:\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.SaibaMais.resources
+E:\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.MeuPerfil.resources
+E:\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.ModosCombate.resources
+C:\Users\Victor Pereira\Downloads\PA_TESTE_0306\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.csprojAssemblyReference.cache
+C:\Users\Victor Pereira\Downloads\PA_TESTE_0306\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.Aplicação.resources
+C:\Users\Victor Pereira\Downloads\PA_TESTE_0306\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.Form1.resources
+C:\Users\Victor Pereira\Downloads\PA_TESTE_0306\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.Login.resources
+C:\Users\Victor Pereira\Downloads\PA_TESTE_0306\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.MenuOpções.resources
+C:\Users\Victor Pereira\Downloads\PA_TESTE_0306\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.MeuPerfil.resources
+C:\Users\Victor Pereira\Downloads\PA_TESTE_0306\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.ModosCombate.resources
+C:\Users\Victor Pereira\Downloads\PA_TESTE_0306\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.Properties.Resources.resources
+C:\Users\Victor Pereira\Downloads\PA_TESTE_0306\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.SaibaMais.resources
+C:\Users\Victor Pereira\Downloads\PA_TESTE_0306\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.csproj.GenerateResource.cache
+C:\Users\Victor Pereira\Downloads\PA_TESTE_0306\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.AssemblyInfoInputs.cache
+C:\Users\Victor Pereira\Downloads\PA_TESTE_0306\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.AssemblyInfo.cs
+C:\Users\Victor Pereira\Downloads\PA_TESTE_0306\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.csproj.CoreCompileInputs.cache
+C:\Users\Victor Pereira\Downloads\PA_TESTE_0306\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.dll
+C:\Users\Victor Pereira\Downloads\PA_TESTE_0306\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.pdb
+C:\Users\Victor Pereira\Downloads\PA_TESTE_0306\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\PA_TESTE.exe
+C:\Users\Victor Pereira\Downloads\PA_TESTE_0306\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\PA_TESTE.deps.json
+C:\Users\Victor Pereira\Downloads\PA_TESTE_0306\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\PA_TESTE.runtimeconfig.json
+C:\Users\Victor Pereira\Downloads\PA_TESTE_0306\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\PA_TESTE.runtimeconfig.dev.json
+C:\Users\Victor Pereira\Downloads\PA_TESTE_0306\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\PA_TESTE.dll
+C:\Users\Victor Pereira\Downloads\PA_TESTE_0306\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\PA_TESTE.pdb
+C:\Users\Victor Pereira\Downloads\PA_TESTE_0306\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\MetroFramework.Design.dll
+C:\Users\Victor Pereira\Downloads\PA_TESTE_0306\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\MetroFramework.Fonts.dll
+C:\Users\Victor Pereira\Downloads\PA_TESTE_0306\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\MetroFramework.dll
+C:\Users\Victor Pereira\Downloads\PA_TESTE_0306\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Victor Pereira\Downloads\PA_TESTE_0306\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Victor Pereira\Downloads\PA_TESTE_0306\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Victor Pereira\Downloads\PA_TESTE_0306\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Victor Pereira\Downloads\PA_TESTE_0306\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Victor Pereira\Downloads\PA_TESTE_0306\PA_TESTE\PA_TESTE\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Victor Pereira\Downloads\PA_TESTE_0306\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.csproj.CopyComplete
+C:\Users\Victor Pereira\Downloads\PA_TESTE_0306\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.genruntimeconfig.cache
+E:\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.Aplicação.resources
+E:\PA_TESTE\PA_TESTE\obj\Debug\netcoreapp3.1\PA_TESTE.PragraDesc.resources
